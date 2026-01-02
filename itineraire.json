@@ -1,0 +1,207 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la Cité des Sassi : Un Voyage Hors du Temps",
+  "budget_total": "1150 € par personne (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "4h30 (estimation, avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans les Sassi",
+      "legende": "Après votre vol depuis Paris et le transfert vers Matera, prenez le temps de vous installer et de faire une première immersion douce dans l'atmosphère unique des Sassi. Laissez-vous charmer par les ruelles labyrinthiques et les habitations troglodytiques qui s'illuminent au crépuscule, offrant un spectacle inoubliable pour débuter votre séjour.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬 Arrivée à Bari et transfert à Matera</strong>: Vol depuis Paris (CDG) vers Bari (BRI), puis transfert en bus ou train jusqu'à Matera (environ 1h-1h30).",
+        "<strong>🛏️ Installation à l'hôtel troglodyte</strong>: Prenez possession de votre logement unique, souvent niché dans une ancienne habitation rupestre.",
+        "<strong>🚶‍♂️ Première balade relaxante dans les Sassi</strong>: Une promenade douce pour s'imprégner de l'ambiance et admirer les vues panoramiques au coucher du soleil."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aeroporto di Bari-Karol Wojtyla, Bari",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.1389, "lng": 16.7605 }
+        },
+        {
+          "nom_recherche": "Matera Centrale, Matera",
+          "categorie": "Gare routière/ferroviaire",
+          "coords": { "lat": 40.6667, "lng": 16.6074 }
+        },
+        {
+          "nom_recherche": "Sassi di Matera, Matera",
+          "categorie": "Site historique",
+          "coords": { "lat": 40.6667, "lng": 16.6100 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transfert Bari-Matera",
+          "texte": "Des bus directs (MarinoBus, FlixBus) ou des trains (Ferrovie Appulo Lucane) relient l'aéroport de Bari ou la gare centrale de Bari à Matera. Le trajet dure environ 1h à 1h30."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion au Cœur des Sassi Barisano et Caveoso",
+      "legende": "Explorez les deux quartiers historiques des Sassi, Barisano et Caveoso, classés au patrimoine mondial de l'UNESCO. Visitez une maison-grotte typique pour comprendre le mode de vie ancestral et admirez les églises rupestres qui témoignent d'une histoire millénaire. Une journée riche en découvertes, à un rythme tranquille.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♀️ Découverte des Sassi Barisano</strong>: Flânez dans le quartier le plus \"restauré\" des Sassi, avec ses boutiques d'artisans et ses restaurants.",
+        "<strong>🏠 Visite d'une Casa Grotta</strong>: Explorez une habitation troglodytique meublée pour imaginer la vie des habitants d'autrefois.",
+        "<strong>⛪ Exploration des Sassi Caveoso et églises rupestres</strong>: Plongez dans le quartier le plus ancien et le plus \"sauvage\", et découvrez des églises creusées dans la roche comme Santa Lucia alle Malve."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sassi di Matera, Matera",
+          "categorie": "Site historique",
+          "coords": { "lat": 40.6667, "lng": 16.6100 }
+        },
+        {
+          "nom_recherche": "Casa Grotta di Vico Solitario, Matera",
+          "categorie": "Musée",
+          "coords": { "lat": 40.6639, "lng": 16.6092 }
+        },
+        {
+          "nom_recherche": "Chiesa di Santa Lucia alle Malve, Matera",
+          "categorie": "Église rupestre",
+          "coords": { "lat": 40.6627, "lng": 16.6105 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures confortables",
+          "texte": "Les Sassi sont faits de ruelles pavées, d'escaliers et de pentes. Des chaussures de marche confortables sont indispensables pour profiter pleinement de la visite."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants et Détente Naturelle",
+      "legende": "Échappez-vous de l'agitation des Sassi pour une matinée paisible dans le Parc de la Murgia Materana, offrant des vues spectaculaires sur la ville. L'après-midi, détendez-vous en explorant le centre historique moderne de Matera et savourez un authentique aperitivo italien, clôturant la journée en douceur.",
+      "lieu": "Matera et Parco della Murgia Materana",
+      "activites": [
+        "<strong>🚶‍♂️ Randonnée douce au Parco della Murgia Materana</strong>: Traversez le pont suspendu pour rejoindre le parc et profiter de vues imprenables sur les Sassi depuis le Belvedere di Murgia Timone. (Activité douce, pas de canyoning !)",
+        "<strong>⛪ Visite de la Cathédrale de Matera</strong>: Admirez l'architecture romane de ce joyau situé au point culminant de la ville.",
+        "<strong>🍹 Aperitivo relaxant</strong>: Terminez la journée par un apéritif typiquement italien dans un bar avec vue sur les Sassi, pour une ambiance des plus agréables."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parco della Murgia Materana, Matera",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 40.6630, "lng": 16.6200 }
+        },
+        {
+          "nom_recherche": "Belvedere di Murgia Timone, Matera",
+          "categorie": "Point de vue",
+          "coords": { "lat": 40.6630, "lng": 16.6200 }
+        },
+        {
+          "nom_recherche": "Cattedrale di Matera, Matera",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 40.6664, "lng": 16.6094 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌅",
+          "titre": "Coucher de soleil",
+          "texte": "Le Belvedere di Murgia Timone offre l'une des meilleures vues pour admirer le coucher de soleil sur les Sassi, un moment magique à ne pas manquer."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de cette dernière matinée pour quelques achats de souvenirs ou une dernière promenade dans les Sassi, savourant l'atmosphère unique de Matera. Après un déjeuner léger, il sera temps de prendre le chemin du retour vers l'aéroport de Bari, emportant avec vous des souvenirs impérissables de cette ville extraordinaire.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs locaux</strong>: Trouvez des produits artisanaux, de la céramique ou des spécialités culinaires pour prolonger le voyage à la maison.",
+        "<strong>☕ Dernier café avec vue</strong>: Savourez un dernier \"caffè\" italien sur une terrasse surplombant les Sassi.",
+        "<strong>🛫 Transfert à l'aéroport de Bari et vol retour</strong>: Reprenez le bus ou le train vers Bari pour votre vol de retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Matera, Matera",
+          "categorie": "Ville",
+          "coords": { "lat": 40.6667, "lng": 16.6074 }
+        },
+        {
+          "nom_recherche": "Aeroporto di Bari-Karol Wojtyla, Bari",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.1389, "lng": 16.7605 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Produits locaux",
+          "texte": "Ne partez pas sans goûter au célèbre \"Pane di Matera\" ou aux \"Peperoni Cruschi\", des spécialités uniques de la région."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 275 €/pers (A/R Paris-Bari)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/pers (transferts Bari-Matera A/R)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 400 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (3 nuits en hôtel 3* ou B&B de charme)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (entrées musées, églises rupestres)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "☀️" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En avril, les températures à Matera varient entre 10 et 20°C. Prévoir des couches et une veste légère.", "symbole": "🌸" },
+    { "titre": "L'euro est la monnaie. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Matera est une ville qui se découvre à pied. Pour les transferts, les bus et trains sont efficaces. La location de voiture n'est pas nécessaire en ville.", "symbole": "🚶‍♀️" },
+    { "titre": "Le réseau mobile est bon. Le Wi-Fi est disponible dans la plupart des hébergements et cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "La \"Honte de l'Italie\"",
+      "texte": "Jusqu'aux années 1950, Matera était considérée comme la \"honte de l'Italie\" en raison de l'extrême pauvreté et des conditions insalubres des Sassi. Les habitants furent relogés de force, avant que la ville ne connaisse une renaissance spectaculaire et devienne un site UNESCO."
+    },
+    {
+      "symbole": "🎬",
+      "titre": "Hollywood dans les Sassi",
+      "texte": "Le paysage unique de Matera, avec ses grottes et ses roches, a servi de décor à de nombreux films, notamment \"La Passion du Christ\" de Mel Gibson, qui y a recréé Jérusalem, et plus récemment \"Mourir peut attendre\" (James Bond)."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍞",
+      "titre": "Pane di Matera",
+      "description": "Un pain artisanal à la croûte croustillante et à la mie dense, fabriqué avec de la semoule de blé dur locale. Reconnaissable à sa forme particulière, il est un symbole de la gastronomie lucanienne."
+    },
+    {
+      "symbole": "🍝",
+      "titre": "Orecchiette con Cime di Rapa",
+      "description": "Des petites pâtes en forme d'oreille, typiques des Pouilles voisines mais très appréciées en Basilicate, servies avec des feuilles de navet (cime di rapa), de l'ail, du piment et de l'huile d'olive."
+    },
+    {
+      "symbole": "🌶️",
+      "titre": "Peperoni Cruschi",
+      "description": "Des poivrons doux séchés et frits rapidement dans de l'huile d'olive, devenant incroyablement croustillants. Ils sont utilisés comme garniture ou snack, offrant une saveur unique et addictive."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Bari", "url": "https://www.kayak.fr/flights/CDG-BRI/2026-04-20/2026-04-24", "symbole": "🛬" },
+    { "legende": "Infos officielles Matera", "titre": "Tourisme Matera", "url": "https://www.basilicataturistica.it/en/matera/", "symbole": "📘" },
+    { "legende": "Transports Bari-Matera", "titre": "Ferrovie Appulo Lucane", "url": "https://ferrovieappulolucane.it/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Matera", "url": "https://www.ilmeteo.it/meteo/Matera", "symbole": "🌤️" }
+  ]
+}
